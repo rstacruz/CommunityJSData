@@ -894,6 +894,14 @@
         "town": "Roma"
     },
     {
+        "continent": "Europe",
+        "country": "Italy",
+        "lat": 41.914412,
+        "link": "https://plus.google.com/communities/113152866370238474683",
+        "lng": 12.470508,
+        "town": "Roma"
+    },
+    {
         "language": "java",
         "views": {
             "index": {
